@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dea47c4-b685-4679-8a45-2040f1ebf5ee" name="Default Changelist" comment="第二次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCustomer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/java/cn/blb/CustomerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/java/cn/blb/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/java/cn/blb/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEureka/src/main/java/cn/blb/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEureka/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringEureka/target/classes/cn/blb/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/UserApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userService/userService.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\IDEA项目\SpringCloud\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVLBbqCYgor0IVYV4xe1DKQNDr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.blb.pojo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application 2">
+    <configuration name="Application 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringEureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.blb.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringEureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.blb.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringCustomer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.blb.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="userService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.blb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.blb.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application 2" />
+      <item itemvalue="Spring Boot.CustomerApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\66959\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dea47c4-b685-4679-8a45-2040f1ebf5ee" name="Default Changelist" comment="" />
+      <created>1577333180556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577333180556</updated>
+      <workItem from="1577333183284" duration="6991000" />
+      <workItem from="1577350230867" duration="12947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.yml" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="87" key="#Inspections" timestamp="1577350048886">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="582" y="87" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1577350048886" />
+    <state x="610" y="67" key="#Notifications" timestamp="1577353315606">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="610" y="67" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1577353315606" />
+    <state x="669" y="108" width="814" height="646" key="#Project_Structure" timestamp="1577364877194">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="669" y="108" width="814" height="646" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1577364877194" />
+    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577364299487">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="447" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1577364299487" />
+    <state x="751" y="211" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577353617767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="751" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1577353617767" />
+    <state x="337" y="22" key="CommitChangelistDialog2" timestamp="1577366774695">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="337" y="22" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577366774695" />
+    <state x="632" y="174" key="FileChooserDialogImpl" timestamp="1577366686362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="632" y="174" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1577366686362" />
+    <state width="751" height="204" key="GridCell.Tab.0.bottom" timestamp="1577366774763">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577366774763" />
+    <state width="751" height="204" key="GridCell.Tab.0.center" timestamp="1577366774762">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1577366774762" />
+    <state width="751" height="204" key="GridCell.Tab.0.left" timestamp="1577366774762">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1577366774762" />
+    <state width="751" height="204" key="GridCell.Tab.0.right" timestamp="1577366774763">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1577366774763" />
+    <state width="751" height="204" key="GridCell.Tab.1.bottom" timestamp="1577366774763">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1577366774763" />
+    <state width="751" height="204" key="GridCell.Tab.1.center" timestamp="1577366774763">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1577366774763" />
+    <state width="751" height="204" key="GridCell.Tab.1.left" timestamp="1577366774763">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1577366774763" />
+    <state width="751" height="204" key="GridCell.Tab.1.right" timestamp="1577366774763">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="751" height="204" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1577366774763" />
+    <state x="548" y="63" key="Maven.ArtifactSearchDialog" timestamp="1577353376615">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="63" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1577353376615" />
+    <state x="359" y="69" key="SettingsEditor" timestamp="1577351487197">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="359" y="69" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577351487197" />
+    <state x="669" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1577350231274">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="669" y="251" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1577350231274" />
+    <state x="356" y="160" width="1180" height="566" key="new project wizard" timestamp="1577354336777">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="356" y="160" width="1180" height="566" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1577354336777" />
+    <state x="740" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1577346806129">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="740" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1577346806129" />
+  </component>
+</project>
