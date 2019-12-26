@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dea47c4-b685-4679-8a45-2040f1ebf5ee" name="Default Changelist" comment="第二次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCustomer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/java/cn/blb/CustomerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/java/cn/blb/controller/CustomerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/java/cn/blb/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCustomer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringEureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringEureka/src/main/java/cn/blb/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringEureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringEureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringEureka/target/classes/cn/blb/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/UserApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/src/main/java/cn/blb/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/UserApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/controller/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/mapper/UserMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/target/classes/cn/blb/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userService/userService.iml" afterDir="false" />
+    <list default="true" id="1dea47c4-b685-4679-8a45-2040f1ebf5ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,6 +157,14 @@
       <workItem from="1577333183284" duration="6991000" />
       <workItem from="1577350230867" duration="12947000" />
     </task>
+    <task id="LOCAL-00001" summary="第二次提交sss">
+      <created>1577367314557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577367314557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +175,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
+    <MESSAGE value="第二次提交sss" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交sss" />
   </component>
   <component name="WindowStateProjectService">
     <state x="582" y="87" key="#Inspections" timestamp="1577350048886">
@@ -221,10 +199,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="751" y="211" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1577353617767" />
-    <state x="337" y="22" key="CommitChangelistDialog2" timestamp="1577366774695">
+    <state x="337" y="22" key="CommitChangelistDialog2" timestamp="1577367314564">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="337" y="22" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577366774695" />
+    <state x="337" y="22" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1577367314564" />
+    <state x="113" y="82" key="DiffContextDialog" timestamp="1577367261552">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="113" y="82" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1577367261552" />
     <state x="632" y="174" key="FileChooserDialogImpl" timestamp="1577366686362">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -269,6 +251,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="359" y="69" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1577351487197" />
+    <state x="288" y="193" key="Vcs.Push.Dialog.v2" timestamp="1577367183184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="288" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1577367183184" />
     <state x="669" y="251" key="com.intellij.ide.util.TipDialog" timestamp="1577350231274">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
